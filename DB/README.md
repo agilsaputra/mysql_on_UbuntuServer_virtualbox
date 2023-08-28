@@ -21,7 +21,7 @@
  - setelah login ketik ifconfig
  - buka terminal lagi untuk jadi tampilah seperti dibawah
    ![Screenshot from 2023-08-28 20-12-32](https://github.com/agilsaputra/mysql_on_UbuntuServer_virtualbox/assets/22126819/d1d0b532-d25c-4a12-8b6f-83f4143519b0)
- - yang kanan adalah terminal server saya ip nya yaitu ```10.0.2.15```
+ - yang kanan adalah terminal server saya ip nya yaitu ```localhost```
  - masuk di directory ```DB_karyawan.sql``` yang kalian download tadi
  - masuk terminal di directory dan copy file dari terminal local ke server
    ```
