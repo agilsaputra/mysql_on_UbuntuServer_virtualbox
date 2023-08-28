@@ -1,5 +1,7 @@
 ### ▶️ Setting Mysql UbuntuServer di Virtualbox dan koneksi dengan local menggunakan SSH 👨‍💻
 
+
+#### ➡️ setup virtual UbuntuServer di virtualbox dan koneksi ssh 👨‍💻
  - OS yang saya gunakan yaitu linux mint cinammon
  - Install virtualbox di linux lalu download UbuntuServer di sini [UbuntuServer](https://ubuntu.com/download/server)
  - Setelah itu create new virtual machine lalu pilih file iso yang di download tadi
@@ -40,6 +42,11 @@
  - lalu masukan password kalian
  - jika berhasil maka nama terminal depan kalian berubah menjadi ```username@namaserver```
    ![Screenshot from 2023-08-28 15-55-14](https://github.com/agilsaputra/mysql_on_UbuntuServer_virtualbox/assets/22126819/f087dc61-a955-4c41-beb3-88b17917f96f)
+
+   
+ #### ➡️➡️ konfigurasi Mysql di server dan menggubungkan ke dbeaver dan mysql workbench
+
+  - kesini gan ➡️➡️ [kemari](https://github.com/agilsaputra/mysql_on_UbuntuServer_virtualbox/tree/master/DB)
 
    
    
