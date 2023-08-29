@@ -68,6 +68,7 @@
  - isikan  ip host server, port, database_username, database_password serta username_server dan password
  - setelah berhasil akan muncul seperti ini
     ![Screenshot from 2023-08-28 22-42-17](https://github.com/agilsaputra/mysql_on_UbuntuServer_virtualbox/assets/22126819/d3dc9714-7ed5-4cbf-98c8-55b26c9bcbce)
+   
  - untuk melihat schema database kalian bisa klik database lalu reverse engineer
  - koneksikan seperti tadi dan pilih database
  - berikut schema yang akan didapatkan
