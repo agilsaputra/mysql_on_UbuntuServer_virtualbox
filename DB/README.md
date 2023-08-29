@@ -61,15 +61,15 @@
   ```
   sudo apt install mysql-workbench
   ```
-  - setelah install selesai jalakan mysql workbench lalu buat koneksi
-  - pilih connection method standard TCP/IP over SSH
+ - setelah install selesai jalakan mysql workbench lalu buat koneksi
+ - pilih connection method standard TCP/IP over SSH
     ![Screenshot from 2023-08-28 22-35-20](https://github.com/agilsaputra/mysql_on_UbuntuServer_virtualbox/assets/22126819/a0a449cf-c4ca-4ab1-941f-a4cd20fa5195)
 
-  - isikan  ip host server, port, database_username, database_password serta username_server dan password
-  - setelah berhasil akan muncul seperti ini
+ - isikan  ip host server, port, database_username, database_password serta username_server dan password
+ - setelah berhasil akan muncul seperti ini
     ![Screenshot from 2023-08-28 22-42-17](https://github.com/agilsaputra/mysql_on_UbuntuServer_virtualbox/assets/22126819/d3dc9714-7ed5-4cbf-98c8-55b26c9bcbce)
-    - untuk melihat schema database kalian bisa klik database lalu reverse engineer
-    - koneksikan seperti tadi dan pilih database
-    - berikut schema yang akan didapatkan
+ - untuk melihat schema database kalian bisa klik database lalu reverse engineer
+ - koneksikan seperti tadi dan pilih database
+ - berikut schema yang akan didapatkan
    
 ![SCHEMA_DB](https://github.com/agilsaputra/mysql_on_UbuntuServer_virtualbox/assets/22126819/728c66af-f355-4368-84aa-d74e6ed075ab)
